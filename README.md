@@ -24,9 +24,9 @@ Technologies Used
 
 # Installation
 
-To set up and run the Google Gemini Clone app locally, follow these steps:
+To set up and run the NextJs Travel Website locally, follow these steps:
 
-1. **Clone the repository:** [git clone https://github.com/Jaishikha-Sharma/Google-Gemini-Clone.git](https://github.com/Jaishikha-Sharma/Next-Js-Website.git)
+1. **Clone the repository:** https://github.com/Jaishikha-Sharma/Next-Js-Website.git
 
 2. **Navigate into the project directory:** cd travel
 
