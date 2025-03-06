@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Next Js Travel Website
 
-Travel Website is a modern and responsive platform built with Next.js and TypeScript, offering a seamless user experience. It features AOS animations, Swiper card effects, and a captivating background video in the hero section. The website also includes a scroll-up functionality, allowing users to easily navigate back to the top. With interactive elements and booking services, it provides an engaging experience for browsing destinations and booking travel-related services. The site is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
+Travel Website is a modern and responsive platform built with Next.js and TypeScript, offering a seamless user experience. It features AOS animations, Swiper card effects, tailwind CSS and a captivating background video in the hero section. The website also includes a scroll-up functionality, allowing users to easily navigate back to the top. With interactive elements and booking services, it provides an engaging experience for browsing destinations and booking travel-related services. The site is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
 
 **ScreenShots**
 
@@ -38,13 +38,25 @@ To set up and run the Google Gemini Clone app locally, follow these steps:
 
 
 # Features
-1. **AOS Animations:**Smooth scroll-triggered animations for an engaging experience..
+1. **AOS Animations:** Smooth scroll-triggered animations for an engaging experience..
 
 2. **Swiper Cards** Interactive cards with card flip effects for various travel services and offers.
 
 3. **Responsive Design:** The Website is built with a responsive UI, making it suitable for both desktop and mobile devices.
 
 4. **Scroll Bar**
+5. **Tailwind CSS**
+
+# Technologies Used
+1. **Next JS:**
+
+2. **TypeScript:** Provides type safety and improves code quality
+
+3. **Swiper:** Library for interactive touch sliders and carousels for card effects.
+
+4. **React Icons:** For styling and layout design.
+5. **TailWind CSS:** 
+
 
 
 
