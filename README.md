@@ -18,8 +18,6 @@ Travel Website is a modern and responsive platform built with Next.js and TypeSc
 
 Installation
 
-Usage
-
 Features
 
 Technologies Used
@@ -28,15 +26,25 @@ Technologies Used
 
 To set up and run the Google Gemini Clone app locally, follow these steps:
 
-1. **Clone the repository:** git clone https://github.com/Jaishikha-Sharma/Google-Gemini-Clone.git
+1. **Clone the repository:** [git clone https://github.com/Jaishikha-Sharma/Google-Gemini-Clone.git](https://github.com/Jaishikha-Sharma/Next-Js-Website.git)
 
-2. **Navigate into the project directory:** cd Gemini
+2. **Navigate into the project directory:** cd travel
 
 3. **Install the required dependencies:** npm install
 
 4. **Run the development server:** npm run dev
 
 5. Once the server starts, copy the URL from your terminal (usually http://localhost:5173) and paste it into your browser to view the app.
+
+
+# Features
+1. **AOS Animations:**Smooth scroll-triggered animations for an engaging experience..
+
+2. **Swiper Cards** Interactive cards with card flip effects for various travel services and offers.
+
+3. **Responsive Design:** The Website is built with a responsive UI, making it suitable for both desktop and mobile devices.
+
+4. **Scroll Bar**
 
 
 
